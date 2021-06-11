@@ -1,5 +1,3 @@
-![top_visual](./images/movie_graphic.png)
-
 
 # Microsoft Movie Analysis 
 
