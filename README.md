@@ -1,3 +1,4 @@
+![visual_6](./images/movie_graphic.jpeg)
 
 # Microsoft Movie Analysis 
 
